@@ -28,6 +28,7 @@ describe('Tranverse method in cypress',function(){
     it('To3get the last DOM element within elements, use the .last() command.',function(){
         cy.get('.traversal-button-states').children().last().should('have.text',"Alert")
     })
+    //tc4
 
 })
 
