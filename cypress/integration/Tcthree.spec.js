@@ -32,6 +32,8 @@ describe('Tranverse method in cypress',function(){
     //tc5
     //tc6
     // tc 7
+    //tc8
+    //tc9
 
 })
 
